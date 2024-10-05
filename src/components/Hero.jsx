@@ -20,7 +20,7 @@ const Hero = () => {
             fontWeight: "bold",
           }}
         >
-          Abu Shaleh Md. Kaium
+         Haibul Hasan
         </h1>
 
         <h2 className="text-[35px] md:text-[30px] font-bold text-softBlue tracking-tight lg:w-full">
